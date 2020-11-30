@@ -14,7 +14,7 @@ html {
 body {
     margin: 0;
     padding: 0;
-    background-color: #000;
+    background-color: #0a0a0a;
 }
 
 main {
@@ -26,8 +26,8 @@ main {
 
 .display {
     font-family: 'Cyberverse';
-    font-size: 10rem;
-    color: #00FFFF; 
+    font-size: 15rem;
+    color: #F415BE; 
 }
 
 @media screen and (max-width: 768px) {
